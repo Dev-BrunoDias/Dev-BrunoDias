@@ -1,5 +1,13 @@
-## Olá, eu sou o Bruno Dias ✋.
-## Estudante de Java Full Stack na SoulCode Academy | Java | JavaScript | Angular | MySQL | HTML | CSS
+<div>
+<h1 align="center">
+    Oi Tudo bem? Eu sou o 
+    <a href="https://www.linkedin.com/in/bruno-dias-26685a243/">Bruno Dias 😃️</a>
+  </h1>
+  
+   <p align="center">
+    Estudante de Java Full Stack na SoulCode Academy | Java | JavaScript | Angular | MySQL | HTML | CSS
+  </p>
+  </div>
 
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-dias-26685a243/)
