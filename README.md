@@ -2,8 +2,9 @@
 ## Estudante de Java Full Stack na SoulCode Academy | Java | JavaScript | Angular | MySQL | HTML | CSS
 
 
-[![Instagran](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-dias-26685a243/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-dias-26685a243/)
 [![Instagran](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/bruno_diasls/)
+[![Gmail]([https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white))](brunodlopes82@gmail.com)
 
 ![Bruno GitHub stats](https://github-readme-stats.vercel.app/api?username=Dev-BrunoDias&show_icons=true&theme=dracula) 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-BrunoDias&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
