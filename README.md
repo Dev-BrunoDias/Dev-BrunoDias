@@ -5,7 +5,7 @@
   </h1>
   
    <h2 align="center">
-    Estudante de Java Full Stack na SoulCode Academy | Java | JavaScript | Angular | MySQL | HTML | CSS
+    Java Full Stack Jr | Java | JavaScript | Angular | MySQL | MongoDB | HTML | CSS
   </h2>
   </div>
 
